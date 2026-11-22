@@ -150,10 +150,18 @@ El segundo despertar muestra los valores del ciclo anterior, lo que confirma que
 
 ## Capturas
 
-- `docs/capturas/circuito.png`: circuito completo en Wokwi.
-- `docs/capturas/consola.png`: consola serie con dos despertares.
-- `docs/capturas/lcd.png`: LCD con temperatura, humedad y nivel solar.
-- `docs/capturas/dashboard.png`: dashboard de ThingSpeak.
+
+### Circuito en Wokwi
+![Circuito en Wokwi](docs/capturas/circuito.png)
+
+### Consola serie
+![Consola serie con dos despertares](docs/capturas/consola.png)
+
+### Pantalla LCD
+![LCD con temperatura, humedad y nivel solar](docs/capturas/lcd.png)
+
+### Dashboard en ThingSpeak
+![Dashboard de ThingSpeak](docs/capturas/dashboard.png)
 
 ## Estimación de consumo (teórica)
 
