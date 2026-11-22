@@ -6,7 +6,7 @@ Proyecto Integrador Final IoT & Web 4.0, Módulo 4.
 Autor: José Luis Hernández González
 
 - Proyecto en Wokwi: **[https://wokwi.com/projects/479614206663362561]**
-- Dashboard en ThingSpeak: **[https://thingspeak.mathworks.com/channels/3563466/private_show]**
+- Dashboard en ThingSpeak: **[https://thingspeak.mathworks.com/channels/3563466]**
 
 ---
 
