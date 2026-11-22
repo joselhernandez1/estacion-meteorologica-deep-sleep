@@ -5,8 +5,8 @@ Estación meteorológica IoT basada en **ESP32** que mide temperatura, humedad y
 Proyecto Integrador Final IoT & Web 4.0, Módulo 4.
 Autor: José Luis Hernández González
 
-- Proyecto en Wokwi: **[PEGAR AQUÍ EL ENLACE DE WOKWI]**
-- Dashboard en ThingSpeak: **[PEGAR AQUÍ EL ENLACE PÚBLICO DEL CANAL, SI LO HAY]**
+- Proyecto en Wokwi: **[https://wokwi.com/projects/479614206663362561]**
+- Dashboard en ThingSpeak: **[https://thingspeak.mathworks.com/channels/3563466/private_show]**
 
 ---
 
